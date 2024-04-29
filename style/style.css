@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+a:visited {
+  color: purple;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+}
