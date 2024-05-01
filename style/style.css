@@ -1,6 +1,10 @@
 body {
-  text-align: center;
   background-color: antiquewhite;
+}
+
+h1,
+p {
+  text-align: center;
 }
 
 a:visited {
@@ -8,6 +12,16 @@ a:visited {
 }
 
 img {
-  width: 500px;
-  height: 500px;
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  height: 300px;
+}
+
+.footer-links {
+  text-align: center;
+}
+
+.footer-links a {
+  margin: 10px;
 }
